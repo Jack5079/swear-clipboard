@@ -9,3 +9,5 @@ run index.js and it will:
 3. replace them like this: `fuck > f**k`
 
 4. copy the replaced string to the clipboard
+
+[Made by Jack5079](https://jack5079.github.io)
