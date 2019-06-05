@@ -1,0 +1,14 @@
+{
+  "name": "swear-clipboard",
+  "version": "1.0.0",
+  "description": "Censors swears in your clipboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack5079",
+  "dependencies": {
+    "clipboardy": "^2.0.0",
+    "profanity-util": "^0.2.0"
+  }
+}
