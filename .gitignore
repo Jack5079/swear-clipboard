@@ -50,6 +50,9 @@ typings/
 # Optional npm cache directory
 .npm
 
+# pkg output
+bin/
+
 # Optional eslint cache
 .eslintcache
 
