@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Censors swears in your clipboard",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "standard"
   },
